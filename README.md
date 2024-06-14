@@ -11,4 +11,4 @@
  </ul>   
 <p>Examples of 200 generated units can be found here: Rüdian, S. (2024). Generated Learning Content for 200 Online Language Learning Units employing GPT3.5 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10618822</p> 
 </p>
-<p>The code can use employed for non-commercial purposes.</p>
+<p>The code can be employed for non-commercial purposes.</p>
